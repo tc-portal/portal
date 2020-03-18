@@ -4,9 +4,9 @@
     "content": {
         "metaDataVersion": "5.0.0",
         "name": "com.microchip.mcu8.mcc.project.FESTIVAL",
-        "version": "32.1.5",
-        "displayName": "Summer FESTIVAL",
-        "projectName": "Summer_FESTIVAL",
+        "version": "50.0.0",
+        "displayName": "Grimm FESTIVAL",
+        "projectName": "Grimm",
         "mplabxVersionRange": "^5.20",
         "shortDescription": "A really brilliant example project showing off UART capabilities on a ATiny817.",
         "longDescription": {
