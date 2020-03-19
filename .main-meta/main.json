@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.0.0",
         "name": "Green.FESTIVAL",
-        "version": "50.4.0",
+        "version": "50.5.0",
         "displayName": "Green FESTIVAL",
         "projectName": "GreenFestival",
         "mplabxVersionRange": "^5.20",
