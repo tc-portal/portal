@@ -2,13 +2,13 @@
     "metaDataVersion": "1.0.0",
     "category": "com.microchip.mcc.project",
     "content": {
-        "metaDataVersion": "12.0.0",
+        "metaDataVersion": "12.1.0",
         "name": "Green.FESTIVAL",
         "version": "50.1.0",
         "displayName": "Green FESTIVAL",
         "projectName": "GreenFestival",
         "mplabxVersionRange": "^5.20",
-        "shortDescription": "A really brilliant example project showing off UART capabilities on a ATiny817.",
+        "shortDescription": "A really innovative example project showing off UART capabilities on a ATiny817.",
         "longDescription": {
             "metaDataVersion": "1.0.0",
             "category": "com.microchip.portal.fileRef",
