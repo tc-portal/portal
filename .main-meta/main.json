@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "5.0.0",
         "name": "com.microchip.mcu8.mcc.project.FESTIVAL",
-        "version": "50.0.0",
+        "version": "50.1.0",
         "displayName": "Grimm FESTIVAL",
         "projectName": "Grimm",
         "mplabxVersionRange": "^5.20",
