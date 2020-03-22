@@ -4,9 +4,9 @@
     "content": {
         "metaDataVersion": "1.0.0",
         "name": "Green.FESTIVAL",
-        "version": "50.6.0",
+        "version": "50.7.0",
         "displayName": "Green FESTIVAL",
-        "projectName": "GreenFestival-06",
+        "projectName": "GreenFestival-07",
         "mplabxVersionRange": "^5.20",
         "shortDescription": "A really innovative example project showing off UART capabilities on a ATiny817.",
         "longDescription": {
