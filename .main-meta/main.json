@@ -1,63 +1,70 @@
 {
     "metaDataVersion": "1.0.0",
-    "category": "com.microchip.start.displayCharacteristics",
+    "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.0.0",
-        "name": "com.microchip.ide.project.displayChaplin",
-        "version": "1.0.0",
+         
+        "name": "com.microchip.mcu8.mplabx.project.myProject",
+        "version": "1.75.126",
+ 
+        "displayName": "Brushless Fan Speed Controller on a PIC18f57q43",
+        "projectName": "pic18f57q43-curiosity-nano-pwm-fan-control",
+         
+        "shortDescription": "Code example used in the Brushless DC Fan Speed Control Using Temperature Input and Tachometer Feedback application note.",
+         
+        "ide": {
+            "name": "MPLABX",
+            "semverRange": ">=5.30.0"
+        },
         
-        "displayCategory": {
+        "compiler": {
+            "name": "XC8",
+            "semverRange": "^5.30"
+        },
+        
+        "pseudodfp": {
+            "pdname": "PERSIFAL",
+            "pdsemverRange": "33.4.2"
+        },		
+        "dfpxxxx": {
+            "name": "ATtiny_DFP",
+            "semverRange": "^1.3.222",
+			"extrafield": "extra-data"
+        },
+        
+        "configurator": {
+            "name": "MCC",
+            "semverRange": ">=3.75"
+        },
+        
+        "device": {
             "metaDataVersion": "1.0.0",
             "category": "com.microchip.portal.contentRef",
             "content": {
                 "metaDataVersion": "1.0.0",
-                "category": "com.microchip.portal.schema",
-                "name": "com.microchip.ide.project",
-                "versionRange": "^1.0.0"
+                "category": "com.microchip.device",
+				"name": "PIC18F47Q10",
+                "versionRange": "*"
             }
         },
-        
-        "additionalData": {
-            "displayCharacteristics": {
-                "title": "Examples",
-                "displayDetails": [
-                    {
-                        "property": "displayName",
-                        "title": "Name",
-                        "type": "string",
-                        "isOfferingName": true
-                    },
-                    {
-                        "property": "tags",
-                        "title": "Tags",
-                        "type": "multi-select"
-                    },
-                    {
-                        "property": "configurations",
-                        "value": {
-                            "property": "device",
-                            "title": "Device",
-                            "type": "string",
-                            "value": {
-                                "property": "name",
-                                "type": "string",
-                                "title": "Name"
-                            }
-                        }
-                    },
-                    {
-                        "property": "board",
-                        "title": "Board",
-                        "type": "string"
-                    },
-                    {
-                        "property": "publisher",
-                        "title": "Publisher",
-                        "type": "string",
-                        "isTypeCompelling": false
-                    } 
-                ]
+         
+        "author": "Anne Other",
+         
+        "subcategories": ["MCC", "BLDC", ["Peripherals", "ADCC"], ["Peripherals", "CCP"], ["Peripherals", "PWM"], ["Peripherals", "UART"]],
+        "peripherals":   ["PWM", "UART",  "CCP","ADCC"],
+        "keywords":      ["BLDC", "brushless dc", "fan", "tachometer", "MCC"]
+    },
+    
+    "additionalData": {
+        "longDescription": {
+            "metaDataVersion": "1.0.0",
+            "category": "com.microchip.portal.fileRef",
+            "content": {
+                "metaDataVersion": "1.0.0",
+                "fileName": "./README.md",
+                "mimeType": "text/markdown"
             }
-        }
+        },
+		"extra-prop": "abc"
     }
 }
