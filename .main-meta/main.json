@@ -2,10 +2,10 @@
     "metaDataVersion": "1.0.0",
     "category": "com.microchip.ide.project",
     "content": {
-        "metaDataVersion": "1.0.0",
+        "metaDataVersion": "1.3.0",
          
         "name": "com.microchip.mcu8.mplabx.project.myProject",
-        "version": "1.75.150",
+        "version": "2.0.0",
  
         "displayName": "Brushless Fan Speed Controller on a PIC18f57q43",
         "projectName": "pic18f57q43-curiosity-nano-pwm-fan-control",
@@ -20,11 +20,6 @@
         "compiler": {
             "name": "XC8",
             "semverRange": "^5.30"
-        },
-        
-        "pseudodfp": {
-            "pdname": "PERSIFAL",
-            "pdsemverRange": "33.4.2"
         },		
         "dfp": {
             "name": "ATtiny_DFP",
@@ -42,7 +37,7 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-				"name": "PIC18F47Q10",
+		"name": "PIC18F47Q10",
                 "versionRange": "*"
             }
         },
@@ -51,7 +46,7 @@
          
         "subcategories": ["MCC", "BLDC", ["Peripherals", "ADCC"], ["Peripherals", "CCP"], ["Peripherals", "PWM"], ["Peripherals", "UART"]],
         "peripherals":   ["PWM", "UART",  "CCP","ADCC"],
-        "keywords":      ["BLDC", "brushless dc", "fan", "tachometer", "MCC"]
+        "keywords":      ["AC", "Ambrosie", "IoT", "Cloud Analytics", "Power Conversion"]
     },
     
     "additionalData": {
@@ -63,7 +58,6 @@
                 "fileName": "./README.md",
                 "mimeType": "text/markdown"
             }
-        },
-		"extra-prop": "abc"
+        }
     }
 }
