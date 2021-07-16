@@ -46,18 +46,18 @@
          
         "subcategories": ["MCC", "BLDC", ["Peripherals", "ADCC"], ["Peripherals", "CCP"], ["Peripherals", "PWM"], ["Peripherals", "UART"]],
         "peripherals":   ["PWM", "UART",  "CCP","ADCC"],
-        "keywords":      ["AC", "Ambrosie", "IoT", "Cloud Analytics", "Power Conversion"]
-    },
+        "keywords":      ["AC", "Ambrosie", "IoT", "Cloud Analytics", "Power Conversion"],
     
-    "additionalData": {
-        "longDescription": {
-            "metaDataVersion": "1.0.0",
-            "category": "com.microchip.portal.fileRef",
-            "content": {
-                "metaDataVersion": "1.0.0",
-                "fileName": "./README.md",
-                "mimeType": "text/markdown"
-            }
-        }
-    }
+		"additionalData": {
+			"longDescription": {
+				"metaDataVersion": "1.0.0",
+				"category": "com.microchip.portal.fileRef",
+				"content": {
+					"metaDataVersion": "1.0.0",
+					"fileName": "./README.md",
+					"mimeType": "text/markdown"
+				}
+			}
+		}
+	}
 }
