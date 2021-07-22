@@ -46,7 +46,7 @@
          
         "subcategories": ["MCC", "BLDC", ["Peripherals", "ADCC"], ["Peripherals", "CCP"], ["Peripherals", "PWM"], ["Peripherals", "UART"]],
         "peripherals":   ["PWM", "UART",  "CCP","ADCC"],
-        "keywords":      ["AC", "Ambrosie", "IoT", "Cloud Analytics", "Power Conversion"],
+        "keywords":      ["AC", "Ethernet MAC", "IoT", "Cloud Analytics", "Power Conversion"],
     
 		"additionalData": {
 			"longDescription": {
