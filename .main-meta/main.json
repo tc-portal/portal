@@ -5,7 +5,7 @@
         "metaDataVersion": "1.3.0",
          
         "name": "com.microchip.mcu8.mplabx.project.myProject",
-        "version": "2.0.0",
+        "version": "2.0.1",
  
         "displayName": "Brushless Fan Speed Controller on a PIC18f57q43",
         "projectName": "pic18f57q43-curiosity-nano-pwm-fan-control",
