@@ -44,9 +44,8 @@
          
         "author": "Anne Other",
          
-        "subcategories": ["MCC", "BLDC", ["Peripherals", "ADCC"], ["Peripherals", "CCP"], ["Peripherals", "PWM"], ["Peripherals", "UART"]],
         "peripherals":   ["PWM", "UART",  "CCP","ADCC"],
-        "keywords":      ["AC", "Ethernet MAC", "IoT", "Cloud Analytics", "Power Conversion", "Bluetooth"],
+        "keywords":      ["AC", "Ethernet MAC", "IoT", "Cloud Analytics", "Power Conversion", "Bluetooth", "Tralala"],
     
 		"additionalData": {
 			"longDescription": {
