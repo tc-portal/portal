@@ -45,7 +45,7 @@
         "author": "Anne Other",
          
         "peripherals":   ["USB"],
-        "keywords":      ["MCC classic", "Jupiter's 3rd satellite", "Jupiter", "Sirius"],
+        "keywords":      ["MCC classic", "Jupiter's 3rd satellite", "Sirius"],
     
 		"additionalData": {
 			"longDescription": {
