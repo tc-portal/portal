@@ -45,7 +45,7 @@
         "author": "Anne Other",
          
         "peripherals":   ["USB", "5G hub"],
-        "keywords":      ["MCC classic", "Jupiter", "Sirius"],
+        "keywords":      ["MCC classic", "Neptun", "Sirius"],
     
 		"additionalData": {
 			"longDescription": {
