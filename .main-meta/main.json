@@ -2,10 +2,10 @@
     "metaDataVersion": "1.0.0",
     "category": "com.microchip.ide.project",
     "content": {
-        "metaDataVersion": "1.1.0",
+        "metaDataVersion": "1.3.0",
          
         "name": "com.microchip.mcu8.mplabx.project.myProject",
-        "version": "2.0.4",
+        "version": "3.0.0",
  
         "displayName": "Brushless Fan Speed Controller on a PIC18f57q43",
         "projectName": "pic18f57q43-curiosity-nano-pwm-fan-control",
@@ -44,8 +44,8 @@
          
         "author": "Anne Other",
          
-        "peripherals":   ["USB"],
-        "keywords":      ["MCC classic", "Jupiter's 3rd satellite", "Sirius"],
+        "peripherals":   ["USB", "5G hub"],
+        "keywords":      ["MCC classic", "Jupiter", "Sirius"],
     
 		"additionalData": {
 			"longDescription": {
