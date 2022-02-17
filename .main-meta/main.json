@@ -5,7 +5,7 @@
         "metaDataVersion": "1.3.0",
          
         "name": "com.microchip.mcu8.mplabx.project.myProject",
-        "version": "3.0.0",
+        "version": "4.0.0",
  
         "displayName": "Brushless Fan Speed Controller on a PIC18f57q43",
         "projectName": "pic18f57q43-curiosity-nano-pwm-fan-control",
@@ -44,8 +44,7 @@
          
         "author": "Anne Other",
          
-        "peripherals":   ["USB", "5G hub"],
-        "keywords":      ["MCC classic", "Neptun", "Sirius"],
+        "keywords":      ["MCC classic", "USB", "5G hub", "ADCCC", "BG", "CMP", "PGA", "VREF", "BISS", "ETH", "FLEXCOM", "eusart", "sercom", "protocol uart", "IoT", "Automotive", "Board", "Bluetooth", "Converter", "Neptun", "Sirius"],
     
 		"additionalData": {
 			"longDescription": {
