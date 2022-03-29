@@ -44,7 +44,7 @@
          
         "author": "Anne Other",
          
-        "keywords":      ["MCC classic", "USB", "5G hub", "ADCCC", "BG", "CMP", "PGA", "VREF", "BISS", "ETH", "FLEXCOM", "eusart", "sercom", "protocol uart", "IoT", "Automotive", "Board", "Bluetooth", "Converter", "Neptun", "Sirius"],
+        "keywords":      ["MCC classic", "USB", "5G hub", "ADCCC", "BG", "CMP", "PGA", "VREF", "BISS", "ETH", "FLEX-COM", "eusart", "ser...com", "protocol uart", "Internet-of-things", "Automotive", "Board", "Bluetooth", "Converter", "micro-usB", "8:bit"],
     
 		"additionalData": {
 			"longDescription": {
