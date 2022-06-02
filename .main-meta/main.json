@@ -12,14 +12,14 @@
          "name":"MATLAB/Simulink",
          "version":">=R2022a"
       },
-	  "addonPackages":{
+	  "addonPackages":[
 				"MATLAB add on packages",
 				"Simulink",
 				"MPLAB Device blocks for Simulink",
 				"Motor Control Blockset",
 				"Embedded Coder",
 				"Fixed-Point Designer"
-      },
+      ],
       "ide":{
          "name":"MPLABX",
          "semverRange":">=6.0.0"
