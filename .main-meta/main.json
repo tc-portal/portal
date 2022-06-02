@@ -10,7 +10,7 @@
       "shortDescription":"MATLAB-Simulink model for Sensorless FOC control using Sliding mode observer (SMO)",
 	  "simulationTool":{
          "name":"MATLAB/Simulink",
-         "semverRange":">=R2022a"
+         "semverRange":">=2022"
       },
 	  "addonPackages":[
 				"MATLAB add on packages",
