@@ -20,10 +20,6 @@
 				"Embedded Coder",
 				"Fixed-Point Designer"
       ],
-      "ide":{
-         "name":"MPLABX",
-         "semverRange":">=6.0.0"
-      },
       "compiler":{
          "name":"XC16",
          "semverRange":"^2.0.0"
