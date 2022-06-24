@@ -22,10 +22,6 @@
       "name": "PIC18F-Q_DFP",
       "semverRange": "^1.3.89"
     },
-    "configurator": {
-      "name": "N/A",
-      "semverRange": " "
-    },
     "device": {
       "metaDataVersion": "1.0.0",
       "category": "com.microchip.portal.contentRef",
