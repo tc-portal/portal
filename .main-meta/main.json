@@ -29,7 +29,7 @@
         "metaDataVersion": "1.0.0",
         "category": "com.microchip.device",
         "name": "dummy-device-for-development",
-        "versionRange": "*"
+        "versionRange": "1.0.0"
       }
     },
     "author": "Microchip",
