@@ -4,7 +4,7 @@
   "content": {
     "metaDataVersion": "1.3.0",
     "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-tmr2-spi-clock-bare",
-    "version": "10.0.6",
+    "version": "10.0.7",
     "displayName": "Using TMR2 as Alternate SPI clock",
     "projectName": "pic18f47q10-cnano-tmr2-spi-clock-bare",
     "shortDescription": "In this demo, the TMR2 is used as 10kHz clock for SPI, configured as host with 2 clients (RC6 pin ->SS1 and RC7 pin ->SS2).",
@@ -28,7 +28,7 @@
       "content": {
         "metaDataVersion": "1.0.0",
         "category": "com.microchip.device",
-        "name": "pseudo-device-for-development",
+        "name": "forecasted-device-for-development",
         "versionRange": "1.0.0"
       }
     },
