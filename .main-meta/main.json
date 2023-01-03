@@ -26,10 +26,11 @@
       "metaDataVersion": "1.0.0",
       "category": "com.microchip.portal.contentRef",
       "content": {
-      "metaDataVersion": "1.0.0",
-      "category": "com.microchip.device",
-      "name": "PIC18F47Q10",
-      "versionRange": "*"
+        "metaDataVersion": "1.0.0",
+        "category": "com.microchip.device",
+        "name": "PIC18F47Q10",
+        "versionRange": "*"
+      }
     },
     "author": "Microchip",
     "keywords": [
